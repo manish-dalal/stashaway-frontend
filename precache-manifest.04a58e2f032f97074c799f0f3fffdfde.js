@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "71167cc011a5c1c78aeb8f3f16d65045",
+    "revision": "40e4535736047eed08f937de5b7c3cf6",
     "url": "/stashaway-frontend/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stashaway-frontend/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "cdd2b55b49482e63f564",
+    "revision": "81c39c9dc6b71c13e65a",
     "url": "/stashaway-frontend/static/css/main.bd143ba9.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stashaway-frontend/static/js/2.6111d3a0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cdd2b55b49482e63f564",
-    "url": "/stashaway-frontend/static/js/main.e129adcb.chunk.js"
+    "revision": "81c39c9dc6b71c13e65a",
+    "url": "/stashaway-frontend/static/js/main.adaaddcf.chunk.js"
   },
   {
     "revision": "f41a27a033a78d110b32",

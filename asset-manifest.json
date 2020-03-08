@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/stashaway-frontend/static/css/main.bd143ba9.chunk.css",
-    "main.js": "/stashaway-frontend/static/js/main.e129adcb.chunk.js",
-    "main.js.map": "/stashaway-frontend/static/js/main.e129adcb.chunk.js.map",
+    "main.js": "/stashaway-frontend/static/js/main.adaaddcf.chunk.js",
+    "main.js.map": "/stashaway-frontend/static/js/main.adaaddcf.chunk.js.map",
     "runtime-main.js": "/stashaway-frontend/static/js/runtime-main.22a63bdb.js",
     "runtime-main.js.map": "/stashaway-frontend/static/js/runtime-main.22a63bdb.js.map",
     "static/css/2.de424728.chunk.css": "/stashaway-frontend/static/css/2.de424728.chunk.css",
     "static/js/2.6111d3a0.chunk.js": "/stashaway-frontend/static/js/2.6111d3a0.chunk.js",
     "static/js/2.6111d3a0.chunk.js.map": "/stashaway-frontend/static/js/2.6111d3a0.chunk.js.map",
     "index.html": "/stashaway-frontend/index.html",
-    "precache-manifest.5181d4ce5fedfa93060359d5d7b92d48.js": "/stashaway-frontend/precache-manifest.5181d4ce5fedfa93060359d5d7b92d48.js",
+    "precache-manifest.04a58e2f032f97074c799f0f3fffdfde.js": "/stashaway-frontend/precache-manifest.04a58e2f032f97074c799f0f3fffdfde.js",
     "service-worker.js": "/stashaway-frontend/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/stashaway-frontend/static/css/2.de424728.chunk.css.map",
     "static/css/main.bd143ba9.chunk.css.map": "/stashaway-frontend/static/css/main.bd143ba9.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.de424728.chunk.css",
     "static/js/2.6111d3a0.chunk.js",
     "static/css/main.bd143ba9.chunk.css",
-    "static/js/main.e129adcb.chunk.js"
+    "static/js/main.adaaddcf.chunk.js"
   ]
 }

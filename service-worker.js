@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/stashaway-frontend/precache-manifest.5181d4ce5fedfa93060359d5d7b92d48.js"
+  "/stashaway-frontend/precache-manifest.04a58e2f032f97074c799f0f3fffdfde.js"
 );
 
 self.addEventListener('message', (event) => {
